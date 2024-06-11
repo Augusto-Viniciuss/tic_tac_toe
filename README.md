@@ -4,7 +4,7 @@
  Clique na imagem para ser levado para o video mostrando o funcionamento do jogo.
 
 <div align='center'><br>
-    <a href="https://youtu.be/UKDGSdiq93M"><img width="40%" src="https://github.com/Augusto-Viniciuss/Jogo-da-Velha/blob/main/img%20jogo%20da%20velha.png/"></a>
+    <a href="https://youtu.be/UKDGSdiq93M"><img width="40%" src="https://github.com/Augusto-Viniciuss/tic_tac_toe/blob/main/img_tic_tac_toe.png/"></a>
 </div>
 
 
